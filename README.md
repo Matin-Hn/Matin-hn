@@ -33,8 +33,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=matin-hn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j&order=3" height="80" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=matin-hn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="50" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=matin-hn&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=matin-hn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
